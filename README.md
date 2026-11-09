@@ -30,10 +30,16 @@ scientific-computing-with-python/
 ├── numpy/
 │   ├── README.md
 │   └── 01_vector_norm_and_normalization.py
+├── notebooks/
+│   └── 01_numpy_qubit_states.ipynb
 └── projects/
     └── numerical_linear_algebra/
         └── README.md
 ```
+
+## Jupyter notebooks
+
+VS Code users can install the Microsoft Python and Jupyter extensions, select this project's `.venv` interpreter, and open files in `notebooks/`. Install notebook kernel support with the requirements below.
 
 ## Getting started
 
