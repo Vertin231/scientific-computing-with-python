@@ -37,6 +37,12 @@ scientific-computing-with-python/
         └── README.md
 ```
 
+
+## Notebooks
+
+- [01 — NumPy and Qubit States](notebooks/01_numpy_qubit_states.ipynb)
+- [02 — Born Rule and Quantum Measurement](notebooks/02_born_rule_measurement.ipynb)
+
 ## Jupyter notebooks
 
 VS Code users can install the Microsoft Python and Jupyter extensions, select this project's `.venv` interpreter, and open files in `notebooks/`. Install notebook kernel support with the requirements below.
