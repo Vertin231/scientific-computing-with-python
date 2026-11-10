@@ -31,15 +31,17 @@ scientific-computing-with-python/
 │   ├── README.md
 │   └── 01_vector_norm_and_normalization.py
 ├── notebooks/
-│   └── 01_numpy_qubit_states.ipynb
+│   ├── 00_numpy_basic_concepts.ipynb
+│   ├── 01_numpy_qubit_states.ipynb
+│   └── 02_born_rule_measurement.ipynb
 └── projects/
     └── numerical_linear_algebra/
         └── README.md
 ```
 
-
 ## Notebooks
 
+- [00 — NumPy Fundamentals](notebooks/00_numpy_basic_concepts.ipynb)
 - [01 — NumPy and Qubit States](notebooks/01_numpy_qubit_states.ipynb)
 - [02 — Born Rule and Quantum Measurement](notebooks/02_born_rule_measurement.ipynb)
 
@@ -57,7 +59,7 @@ Create and activate a virtual environment:
 
 ```powershell
 py -m venv .venv
-.\.venv\Scripts\Activate.ps1
+.\\.venv\\Scripts\\Activate.ps1
 ```
 
 **macOS / Linux**
